@@ -1,0 +1,34 @@
+{
+  "lyceum": 1,
+  "title": "Il cambiamento climatico",
+  "description": "Research resources for an Italian 1 project on climate change in seven Italian locations. Combines library databases, trusted websites, images, and citation help.",
+  "url": "https://mistertlibrary.github.io/cambiamentoclimatico/",
+  "series": "",
+  "course": "Italian 1",
+  "subjects": [
+    "Culture and Geography",
+    "Science"
+  ],
+  "keywords": [
+    "climate change",
+    "Italy",
+    "Italian",
+    "Venice",
+    "Alps",
+    "Emilia-Romagna",
+    "Tuscany",
+    "Puglia",
+    "Sicily",
+    "Rome",
+    "gallery walk",
+    "poster"
+  ],
+  "sections": [
+    {"title": "Start Here", "anchor": "#start", "keywords": ["IATE", "Italian terms"]},
+    {"title": "The Basics", "anchor": "#basics", "keywords": ["Britannica School", "World Geography and Culture", "CultureGrams"]},
+    {"title": "Adding Context", "anchor": "#context", "keywords": ["Gale in Context: Global Issues", "Gale Power Search", "attribution science"]},
+    {"title": "Your Place", "anchor": "#place", "keywords": ["sea level rise", "MOSE", "glaciers", "Ötzi", "Marmolada", "floods", "World Weather Attribution", "drought", "olive oil", "Xylella", "Acquedotto Pugliese", "wildfires", "heat wave", "nasoni"]},
+    {"title": "Find Images", "anchor": "#images", "keywords": ["Britannica ImageQuest", "Image Clearinghouse"]},
+    {"title": "Cite It", "anchor": "#cite", "keywords": ["NoodleTools", "Citation Station: MLA"]}
+  ]
+}
